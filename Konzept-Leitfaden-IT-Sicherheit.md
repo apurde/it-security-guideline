@@ -56,7 +56,8 @@ Priorisierung von Anforderungen
 
 Bei der Priorisierung von Anforderungen berücksichtigt der Leitfaden folgende Dimensionen:
 
-- Risiko für Patienten (Kombination von Schweregrade und Wahrscheinlichkeit von Schäden)
+- Risiko für den einzelnen Patienten (Kombination von Schweregrade und Wahrscheinlichkeit von Schäden)
+- Tragweite (nur ein Patient, ein ganzes Krankenhaus etc.)
 - Umsetzbarkeit (finanzieller und zeitlicher Aufwand, Voraussetzungen bezüglich Werkzeuge)
 
 Die Priorisierung mündet in den folgenden Reifegradstufen
@@ -76,7 +77,7 @@ Aufbau des Leitfadens
    2. Hinweise zur Verwendung 
 2. Allgemeine Anforderungen (Prozesse, Dokumentation) 
 3. Anforderungen an die Produktentwicklung
-   1. Zweckbestimmung und Stakeholder-Anforderungen
+   1. Zweckbestimmung, Stakeholder-Anforderungen und Cybersecurity-Schutzziele
    2. System- und Software-Anforderungen
    3. System- und Software-Architektur
    4. Implementierung und Erstellung der Software
